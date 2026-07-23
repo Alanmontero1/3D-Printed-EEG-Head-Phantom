@@ -1,1 +1,2 @@
 *.f3z filter=lfs diff=lfs merge=lfs -text
+Simulacion_Ansys/**/* filter=lfs diff=lfs merge=lfs -text
